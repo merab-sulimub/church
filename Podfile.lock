@@ -1,0 +1,62 @@
+PODS:
+  - AgoraRtcEngine_iOS (3.1.2)
+  - AgoraRtm_iOS (1.4.1)
+  - AppCenter (3.3.4):
+    - AppCenter/Analytics (= 3.3.4)
+    - AppCenter/Crashes (= 3.3.4)
+  - AppCenter/Analytics (3.3.4):
+    - AppCenter/Core
+  - AppCenter/Core (3.3.4)
+  - AppCenter/Crashes (3.3.4):
+    - AppCenter/Core
+  - GoogleMaps (4.0.0):
+    - GoogleMaps/Maps (= 4.0.0)
+  - GoogleMaps/Base (4.0.0)
+  - GoogleMaps/Maps (4.0.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.0.0):
+    - GoogleMaps/Base (= 4.0.0)
+  - Nuke (9.1.2)
+  - Realm (10.1.2):
+    - Realm/Headers (= 10.1.2)
+  - Realm/Headers (10.1.2)
+  - RealmSwift (10.1.2):
+    - Realm (= 10.1.2)
+  - XCDYouTubeKit (2.15.0)
+
+DEPENDENCIES:
+  - AgoraRtcEngine_iOS
+  - AgoraRtm_iOS
+  - AppCenter
+  - GoogleMaps
+  - GooglePlaces
+  - Nuke (~> 9.0)
+  - RealmSwift
+  - XCDYouTubeKit (~> 2.15)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS
+    - AgoraRtm_iOS
+    - AppCenter
+    - GoogleMaps
+    - GooglePlaces
+    - Nuke
+    - Realm
+    - RealmSwift
+    - XCDYouTubeKit
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_iOS: 0628532d3475471d1c352ba548cee98492850cc0
+  AgoraRtm_iOS: 3a5b675487b39e51f416e8c8a040f97f0aaad2c1
+  AppCenter: 0487be185c038ed2ecc5ed38219af1dcd280af23
+  GoogleMaps: b7f7fc569a9b354a3af0d9729dbec40957b7d41e
+  GooglePlaces: ca8d4aba09ba79e0a829cf1dca03a41de6a09016
+  Nuke: dd2e6be6a34c042a7861e190632781d11f253026
+  Realm: 031fdd4be7094d01b43af1a5e49766ab644bb800
+  RealmSwift: 43cf2e114baa9d17d34eb81e7d0def31f21cd444
+  XCDYouTubeKit: c6747c622dd0b52c9e668c028f68097eeffaea39
+
+PODFILE CHECKSUM: 96b6e9456a2adc9a11913349d1a34e52e90553f0
+
+COCOAPODS: 1.10.0
